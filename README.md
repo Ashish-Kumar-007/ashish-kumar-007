@@ -70,6 +70,6 @@
 <a href="https://discord.gg/cQBXnubwmf" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
 <a href = "https://www.linkedin.com/in/ashish-kumar-sahoo-007" target= "_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href ="https://www.github.com/Ashish-Kumar-007"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.twitter.com/_iam_ashish_" target= "_blank"><img src="https://img.shields.io/badge/_iam_ashish_-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+<a href="https://www.twitter.com/web3_eth_ashish" target= "_blank"><img src="https://img.shields.io/badge/_iam_ashish_-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 </p>
 
