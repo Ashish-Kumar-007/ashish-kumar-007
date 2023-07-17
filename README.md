@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://github.com/Ashish-Kumar-007">
-    <img  alt="kole-swapnil's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashish-Kumar-007&&stroke=ffffff&theme=highcontrast&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"/>
+    <img  alt="ashish kumar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashish-Kumar-007&&stroke=ffffff&theme=highcontrast&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"/>
   </a>
   
 </p>
