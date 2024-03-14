@@ -4,9 +4,29 @@
 
 <!-- <a href="http://www.github.com/Ashish-Kumar-007" align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashish-Kumar-007&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a> -->
 
-* 🌍  I'm based in Odisha, India
-* 🖥️  See my portfolio at [ashish-portfolio](http://rb.gy/ugqt9)
-* 🤝  I'm open to collaborating on Blockchain, Solidity, ERC20, ERC721
+
+Experienced Web3 Developer with a strong background in blockchain technology. Skilled in designing and implementing decentralized applications on Ethereum, Binance, and Polygon blockchains. Known for expertise in programming languages and Web3 libraries, delivering innovative solutions.
+
+---
+
+## Experience
+
+#### Blockchain Developer at [Aarna Protocol](https://www.aarna.finance/), Bhubaneswar, Odisha (Onsite)
+- Nov. 2023 – Present
+
+#### Freelance Frontend Developer at SubLabs, Dubai (Remote)
+- Jul. 2023 - Present
+
+#### Web3 Developer at BSBSTech Pvt. Ltd., Bhubaneswar, Odisha (Remote)
+- Mar 2023 – Jul 2023
+
+#### Blockchain Developer Intern at NFThing, London (Remote)
+- May 2022 – Nov. 2022
+
+#### Blockchain Developer Intern at Dapp-World (Remote)
+- Nov 2021 – Dec. 2021
+
+---
 
 ## 🔥 Streak stats
 
