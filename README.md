@@ -15,9 +15,9 @@ Experienced Web3 Developer with a strong background in blockchain technology. Sk
 - Nov. 2023 – Present
 
 #### Freelance Software Developer at [SubLabs](https://sublabs.xyz/)
-- Jul. 2023 - Jan 2024
+- Jul. 2023 - Nov. 2023
 
-#### Web3 Developer at BSBSTech Pvt. Ltd., Bhubaneswar
+#### Web3 Developer at BSBSTech Pvt. Ltd.
 - Mar 2023 – Jul 2023
 
 #### Blockchain Developer at [NFThing](https://nfthing.com/)
