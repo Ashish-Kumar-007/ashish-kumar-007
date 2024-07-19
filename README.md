@@ -11,19 +11,19 @@ Experienced Web3 Developer with a strong background in blockchain technology. Sk
 
 ## Experience
 
-#### Blockchain Developer at [Aarna Protocol](https://www.aarna.finance/), Bhubaneswar, Odisha (Onsite)
+#### Blockchain Developer at [Aarna Protocol](https://www.aarna.finance/)
 - Nov. 2023 – Present
 
-#### Freelance Frontend Developer at [SubLabs](https://sublabs.xyz/), Dubai (Remote)
-- Jul. 2023 - Present
+#### Freelance Software Developer at [SubLabs](https://sublabs.xyz/)
+- Jul. 2023 - Jan 2024
 
-#### Web3 Developer at BSBSTech Pvt. Ltd., Bhubaneswar, Odisha (Remote)
+#### Web3 Developer at BSBSTech Pvt. Ltd., Bhubaneswar
 - Mar 2023 – Jul 2023
 
-#### Blockchain Developer Intern at [NFThing](https://nfthing.com/), London (Remote)
+#### Blockchain Developer at [NFThing](https://nfthing.com/)
 - May 2022 – Nov. 2022
 
-#### Blockchain Developer Intern at [Dapp-World](https://dapp-world.com/) (Remote)
+#### Blockchain Developer Intern at [Dapp-World](https://dapp-world.com/)
 - Nov 2021 – Dec. 2021
 
 ---
