@@ -12,7 +12,7 @@ Experienced Web3 Developer with a strong background in blockchain technology. Sk
 ## Experience
 
 #### Blockchain Developer at [Aarna Protocol](https://www.aarna.finance/)
-- Nov. 2023 – Present
+- Nov. 2023 – Aug. 2024
 
 #### Freelance Software Developer at [SubLabs](https://sublabs.xyz/)
 - Jul. 2023 - Nov. 2023
