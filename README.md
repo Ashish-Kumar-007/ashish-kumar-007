@@ -1,95 +1,98 @@
-<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif">, I'm Ashish Kumar Sahoo</h1>
-<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Blockchain+%26+Web+Developer"></h3>
-<!-- <h3 align="center">A passionate blockchain developer from India with hands on experience on building dapps</h3> -->
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30" />, I'm Ashish Kumar Sahoo</h1>
 
-<!-- <a href="http://www.github.com/Ashish-Kumar-007" align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashish-Kumar-007&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a> -->
-
-
-Experienced Web3 Developer with a strong background in blockchain technology. Skilled in designing and implementing decentralized applications on Ethereum, Binance, and Polygon blockchains. Known for expertise in programming languages and Web3 libraries, delivering innovative solutions.
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Full+Stack+%26+Blockchain+Developer;Actively+Looking+for+Opportunities" alt="Typing SVG">
+</h3>
 
 ---
 
-## Experience
 
-#### Blockchain Developer at [Aarna Protocol](https://www.aarna.finance/)
-- Nov. 2023 – Aug. 2024
+## 👨‍💻 About Me
 
-#### Freelance Software Developer at [SubLabs](https://sublabs.xyz/)
-- Jul. 2023 - Nov. 2023
-
-#### Web3 Developer at BSBSTech Pvt. Ltd.
-- Mar 2023 – Jul 2023
-
-#### Blockchain Developer at [NFThing](https://nfthing.com/)
-- May 2022 – Nov. 2022
-
-#### Blockchain Developer Intern at [Dapp-World](https://dapp-world.com/)
-- Nov 2021 – Dec. 2021
+Experienced **Full Stack & Blockchain Developer** with a solid foundation in smart contract development and decentralized technologies. Skilled in building scalable and secure decentralized applications (dApps) on **Ethereum, Binance Smart Chain**, and **Polygon** using tools like **Solidity, Hardhat, Ethers.js, and Web3.js**. Proficient in frontend and backend development with **React.js, Next.js, Node.js, and Express.js**, integrating Web3 seamlessly into modern web stacks. Passionate about decentralization, developer advocacy, and delivering intuitive, user-first Web3 experiences.
 
 ---
 
-## 🔥 Streak stats
+## 🛠️ Tech Stack
+
+**Languages & Frameworks:**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)  
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white)
+
+**Web3 & Blockchain:**  
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
+![Ethers.js](https://img.shields.io/badge/Ethers.js-4E4E4E?style=flat&logo=ethers&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat&logo=web3dotjs&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-181717?style=flat&logo=hardhat&logoColor=yellow)
+![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=flat&logo=chainlink&logoColor=white)
+![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=flat&logo=ipfs&logoColor=white)
+![Alchemy](https://img.shields.io/badge/Alchemy-3B3B98?style=flat&logo=alchemy&logoColor=white)
+![MetaMask](https://img.shields.io/badge/MetaMask-F6851B?style=flat&logo=metamask&logoColor=white)
+![Polygon](https://img.shields.io/badge/Polygon-8247E5?style=flat&logo=polygon&logoColor=white)
+![Binance](https://img.shields.io/badge/Binance-yellow?style=flat&logo=binance&logoColor=white)
+![Uniswap](https://img.shields.io/badge/Uniswap-FF007A?style=flat&logo=uniswap&logoColor=white)
+
+**Tools:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS--Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+
+---
+
+## 🧑‍💼 Experience
+
+### Software Developer-I @ [Aarna Protocol](https://www.aarna.finance/)  
+_Nov 2023 – Aug 2024_
+
+### Freelance Software Developer @ [SubLabs](https://sublabs.xyz/)  
+_Jul 2023 – Nov 2023_
+
+### Web3 Developer @ BSBSTech Pvt. Ltd.  
+_Mar 2023 – Jul 2023_
+
+### Software Developer Trainee @ [NFThing](https://nfthing.com/)  
+_May 2022 – Nov 2022_
+
+### Blockchain Intern @ [Dapp-World](https://dapp-world.com/)  
+_Nov 2021 – Dec 2021_
+
+---
+
+## 🔥 GitHub Streak
 
 <p align="center">
-  <a href="https://github.com/Ashish-Kumar-007">
-    <img  alt="ashish kumar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashish-Kumar-007&&stroke=ffffff&theme=highcontrast&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"/>
+  <a href="https://git.io/streak-stats">
+    <img src="https://nirzak-streak-stats.vercel.app?user=Ashish-Kumar-007&theme=yellowdark&hide_border=true" alt="GitHub Streak" />
   </a>
-  
 </p>
 
-</br>
+---
 
-## 🚀 Languages and Tools:
+## 📊 GitHub Stats
 
-
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://code.visualstudio.com/assets/images/code-stable.png" width="36" height="36" alt="VS-code" /></a>
-<a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" width="80" height="36" alt="Express" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
- <img src="https://img.icons8.com/fluency/48/000000/blockchain.png" width="36" height="36" alt="Blockchain"/>
-<a href="https://uniswap.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/uniswap-colored.svg" width="36" height="36" alt="Uniswap" /></a>
-<a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
-<a href="https://ethers.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethers-colored.svg" width="36" height="36" alt="Ethers" /></a>
-<a href="https://web3js.readthedocs.io/en/v1.7.1/#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/web3js-colored.svg" width="36" height="36" alt="Web3Js" /></a>
-<a href="https://docs.alchemy.com/alchemy/documentation/alchemy-web3" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/alchemy-colored.svg" width="36" height="36" alt="Alchemy" /></a>
-<a href="https://hardhat.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/hardhat-colored.svg" width="36" height="36" alt="Hardhat" /></a>
-<a href="https://ipfs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ipfs-colored.svg" width="36" height="36" alt="IPFS" /></a>
-<a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
-<a href="https://polygon.technology/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/polygon-colored.svg" width="36" height="36" alt="Polygon" /></a>
-<a href="https://www.binance.com/en" target="_blank" rel="noreferrer"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fbranditechture.agency%2Fbrand-logos%2Fwp-content%2Fuploads%2F2022%2F06%2FBNB-BNB-1024x768.png&f=1&nofb=1&ipt=6ad6dee94cdcc74772840444296616f6f87bed00d80bce23237b554dd5ddf57a&ipo=images" width="46" height="36" alt="Polygon" /></a>  
-<a href="https://chain.link/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chainlink-colored.svg" width="36" height="36" alt="Chainlink" /></a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashish-Kumar-007&show_icons=true&theme=highcontrast&hide_border=true" alt="Ashish's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish-Kumar-007&layout=compact&theme=highcontrast&hide_border=true" alt="Top Languages" />
 </p>
 
-## 📊 Github stats
+---
 
-<b>💻 GitHub Profile Stats</b>
+## 📫 Connect with Me
 
-<a href="http://www.github.com/Ashish-Kumar-007"><img src="https://github-readme-stats.vercel.app/api?username=Ashish-Kumar-007&theme=highcontrast&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&hide_border=true&show_icons=true" alt="Ashish-Kumar-007's GitHub stats" align="left"/></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ashish_Kumar-blue?style=flat&logo=linkedin)](https://linkedin.com/in/web3-eth-ashish)
+[![Twitter](https://img.shields.io/badge/Twitter-@Ashish_Kumar-blue?style=flat&logo=twitter)](https://twitter.com/web3_eth_ashish)
+[![Telegram](https://img.shields.io/badge/Telegram-@Ashish_Kumar-blue?style=flat&logo=telegram)](https://t.me/web3_eth_ashish)
+[![Discord](https://img.shields.io/badge/Discord-@Ashish_Kumar-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/web3.eth.ashish)
+[![GitHub](https://img.shields.io/github/followers/Ashish-Kumar-007?label=Follow&style=social)](https://github.com/Ashish-Kumar-007)
 
-<!-- <a href="https://github.com/Ashish-Kumar-007" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish-Kumar-007&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
 
-<a href="https://github.com/Ashish-Kumar-007"><img align="center" height="192px" alt="Ashish-Kumar-007's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish-Kumar-007&langs_count=20&layout=compact&theme=highcontrast&title_color=0891b2&hide_border=true" /></a>
+---
 
-
-## 🙋‍ Connect with me:
-
-<p align="center"> 
-<a href="mailto:ashishsahoo2015@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
-<a href="https://discord.gg/cQBXnubwmf" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
-<a href = "https://www.linkedin.com/in/ashish-kumar-sahoo-007" target= "_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href ="https://www.github.com/Ashish-Kumar-007"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.twitter.com/web3_eth_ashish" target= "_blank"><img src="https://img.shields.io/badge/web3_eth_ashish-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
-</p>
-
+_Thanks for visiting! Feel free to explore my repos and connect ✨_
