@@ -7,7 +7,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=8247E5&center=true&vCenter=true&width=650&lines=Solidity+%2B+Hardhat+%2B+Foundry%2C+audited+and+gas-optimized;NestJS+%2F+Node.js+backends%2C+60%25+latency+cuts;Currently%3A+open+to+full-time+roles" alt="Typing SVG" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ashishksahoo.xyz)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashishksahoo-xyz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashish-ku-sahoo)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ashishksahoo_)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ashish-Kumar-007)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashishsahoo2015@gmail.com)
@@ -140,10 +140,12 @@ Production systems with audited, measured outcomes — not demo numbers.
 
 ## 📊 GitHub Activity
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Ashish-Kumar-007&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Ashish's GitHub Stats" height="165"/>
-<img src="https://streak-stats.demolab.com?user=Ashish-Kumar-007&theme=radical&hide_border=true" alt="GitHub Streak" height="165"/>
-</div>
+<table>
+<tr>
+<td width="50%"><img src="https://github-readme-stats.vercel.app/api?username=Ashish-Kumar-007&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Ashish's GitHub Stats" width="100%"/></td>
+<td width="50%"><img src="https://streak-stats.demolab.com?user=Ashish-Kumar-007&theme=radical&hide_border=true" alt="GitHub Streak" width="100%"/></td>
+</tr>
+</table>
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish-Kumar-007&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
