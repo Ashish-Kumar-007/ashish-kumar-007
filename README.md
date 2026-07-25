@@ -2,15 +2,17 @@
 
 # Hey, I'm Ashish 👋
 
-### Blockchain & Backend Engineer — DeFi protocols, smart contracts, and the backend systems that settle them.
+### Backend & AI Engineer — Scalable systems, high-performance APIs, and AI integrations.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=8247E5&center=true&vCenter=true&width=650&lines=Solidity+%2B+Hardhat+%2B+Foundry%2C+audited+and+gas-optimized;NestJS+%2F+Node.js+backends%2C+60%25+latency+cuts;Currently%3A+open+to+full-time+roles" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2454A6&center=true&vCenter=true&width=750&lines=Python+%2B+Node.js+backends%2C+optimized+for+scale;AWS+Cloud+%26+Event-Driven+Architecture;RAG+Pipelines+%26+LLM+Integrations;Currently%3A+open+to+full-time+roles" alt="Typing SVG" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ashishksahoo.xyz)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashish-ku-sahoo)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ashishksahoo_)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ashish-Kumar-007)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashishsahoo2015@gmail.com)
+<p align="center">
+  <a href="https://ashishksahoo.xyz"><img src="https://img.shields.io/badge/Portfolio-2454A6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>&nbsp;
+  <a href="https://linkedin.com/in/ashishksahoo-xyz"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+  <a href="https://x.com/ashishksahoo_"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>&nbsp;
+  <a href="https://github.com/Ashish-Kumar-007"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;
+  <a href="mailto:ashishsahoo2015@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
 </div>
 
@@ -18,15 +20,15 @@
 
 ## What I actually do
 
-I design and ship **on-chain systems and the backend infrastructure underneath them** — smart contracts, DeFi protocols, and the APIs that settle on-chain data against off-chain state. Frontend when a project needs it; backend and blockchain by default.
+I design and ship **scalable backend infrastructure and AI-integrated systems** — robust APIs, distributed data pipelines, and the cloud architecture that runs them. I specialize in the Python and Node.js ecosystems, focusing on database optimization, asynchronous processing, and bridging complex business logic with high-performance execution.
 
 ```
-Solidity contract → tested with Hardhat/Foundry → audited & gas-optimized → backend API (NestJS/Node.js) → on-chain settlement
+System Architecture → API Design (FastAPI/Django/Node) → DB Optimization (Redis/PostgreSQL) → AWS Cloud Deployment
 ```
 
-**Right now:** building an advanced NFT marketplace for **MashLabs** — smart contract architecture, backend integrations, and on-chain protocol design.
+**Right now:** Engineering freelance solutions on Upwork, building stateless RAG pipelines, and optimizing LLM inference with AWS background workers.
 
-**Track record:** at Aarna Protocol, I helped design **AFI407**, a liquid staking vault aggregating LST deposits across Lido, Ankr, and EigenLayer, and built the off-chain APIs settling **5,000+ transactions** through that system.
+**Track record:** At Aarna Protocol, I orchestrated complex, high-volume reward computation workflows using **AWS Step Functions**, ensuring reliable daily settlements and designing real-time webhook synchronization APIs. At BSBS Tech, I decreased core API response times by ~40% by implementing read-through caching and resolving severe N+1 SQL query bottlenecks.
 
 <br>
 
@@ -36,62 +38,52 @@ Solidity contract → tested with Hardhat/Foundry → audited & gas-optimized �
 <tr>
 <td valign="top" width="25%">
 
-**Blockchain & DeFi**
-<br>
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logo=hardhat&logoColor=black)
-![Foundry](https://img.shields.io/badge/Foundry-000000?style=flat-square&logo=ethereum&logoColor=white)
-![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=flat-square&logo=ethereum&logoColor=white)
-![Wagmi](https://img.shields.io/badge/Wagmi-000000?style=flat-square&logo=ethereum&logoColor=white)
-![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=flat-square&logo=openzeppelin&logoColor=white)
-![Polygon](https://img.shields.io/badge/Polygon-8247E5?style=flat-square&logo=polygon&logoColor=white)
-<br>
-ERC-20/721, Superfluid streaming, Sepolia & testnet deploys
-
-</td>
-<td valign="top" width="25%">
-
 **Backend & APIs**
 <br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white)
+<br>
+REST APIs, Microservices, Event-Driven Architecture, OAuth 2.0
+
+</td>
+<td valign="top" width="25%">
+
+**Data & Cloud**
+<br>
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![BullMQ](https://img.shields.io/badge/BullMQ-DC382D?style=flat-square&logoColor=white)
 <br>
-REST APIs, JWT/Passport.js auth, queue-based job processing
+AWS (Lambda, Step Functions, SNS, S3), SQLAlchemy, Prisma, SQL Optimization
 
 </td>
 <td valign="top" width="25%">
 
-**AI / LLM**
+**AI & Data Science**
 <br>
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Cerebras](https://img.shields.io/badge/Cerebras_AI-F4651F?style=flat-square&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 <br>
-RAG pipelines, vector-cached retrieval, streaming SSE chat infra
-
-**Infra**
-<br>
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+RAG Pipelines, Vector DBs, Prompt Engineering, Semantic Search, Async LLM Inference
 
 </td>
 <td valign="top" width="25%">
 
-**Frontend & Mobile**
+**Web3 & Frontend**
 <br>
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat-square&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+<br>
+Smart Contracts, DeFi Analytics, Ethers.js, Full-Stack Integration
 
 </td>
 </tr>
@@ -99,56 +91,52 @@ RAG pipelines, vector-cached retrieval, streaming SSE chat infra
 
 <br>
 
-## 🚀 Case studies
+## 🚀 Projects & Case Studies
 
-Production systems with audited, measured outcomes — not demo numbers.
+Production systems and open-source tools with measured engineering outcomes.
 
-| Project | Stack | Result |
-|---|---|---|
-| **[MashLabs — ERC721 NFT Protocol](https://www.ashishksahoo.xyz/case-studies/mashlabs-erc721-nft-protocol)** | Solidity, Hardhat, Ethers.js, IPFS | Gas-optimized ERC-721A batch minting — **35% gas cut**, 0 bugs post-audit |
-| **[StudioLive — NestJS SaaS Platform](https://www.ashishksahoo.xyz/case-studies/studiolive-nestjs-saas-platform)** | NestJS, Redis, BullMQ, Prisma | Dashboard latency **5–8s → 1–2s**, 48% activation recovery |
-| **[AI Chat Agent — Cerebras RAG](https://www.ashishksahoo.xyz/case-studies/ai-live-chat-rag-cerebras)** | Cerebras AI, NestJS, Redis vector cache | **60% latency cut**, 74% of tickets resolved autonomously |
-| **[On-Chain Credit Score](https://www.ashishksahoo.xyz/case-studies/onchain-credit-score-solidity)** | Solidity, Foundry, Polygon | **100%** audit pass rate, 0 security incidents on Sepolia |
-| **[FluidPass — Superfluid on Polygon](https://www.ashishksahoo.xyz/case-studies/fluidpass-superfluid-polygon)** | Superfluid, Solidity, Wagmi | Eliminated subscription approvals, **30% faster** integration |
-| **[Vendz — B2B Marketplace](https://www.ashishksahoo.xyz/case-studies/vendz-b2b-marketplace-supabase)** | Next.js, Supabase, Prisma | Sync latency **<150ms**, shipped in 6 weeks |
-
-<br>
-
-## 🧑‍💼 Where I've worked
-
-<table>
-<tr><td><b>Freelance Software Developer</b></td><td>Self-Employed</td><td><i>Aug 2024 – Present</i></td></tr>
-<tr><td><b>Software Development Engineer</b></td><td><a href="https://www.aarna.finance/">Aarna Protocol</a></td><td><i>Nov 2023 – Aug 2024</i></td></tr>
-<tr><td><b>Software Developer (Freelance)</b></td><td><a href="https://sublabs.xyz/">SubLabs</a></td><td><i>Jul 2023 – Nov 2023</i></td></tr>
-<tr><td><b>Software Developer</b></td><td>BSBS Tech Pvt. Ltd.</td><td><i>Mar 2023 – Jul 2023</i></td></tr>
-<tr><td><b>Software Developer Intern</b></td><td><a href="https://nfthing.com/">NFThing</a></td><td><i>May 2022 – Nov 2022</i></td></tr>
-</table>
-
-**By the numbers:** 2.5+ years shipping production systems · 5,000+ on-chain transactions settled at Aarna · 60% API latency reduction at StudioLive · 35% gas savings shipped for MashLabs · 2,000+ ERC-721 assets tracked at NFThing · 30% faster integration resolution via undocumented-spec reverse engineering.
+| Project | Stack | Result | Links |
+|---|---|---|---|
+| **AI Live Chat Agent — RAG** | FastAPI, Python, Redis, AWS SNS | Decreased AI response time by **~70% (8s → 2s)** via async background workers | [Case Study](https://www.ashishksahoo.xyz/case-studies/ai-live-chat-rag-cerebras) · [GitHub](https://github.com/Ashish-Kumar-007/AI-Live-Chat-Agent) |
+| **StudioLive — SaaS Platform** | Node.js, Redis, BullMQ, Prisma | Dashboard data aggregation latency dropped from **5–8s → 1–2s** | [Case Study](https://www.ashishksahoo.xyz/case-studies/studiolive-nestjs-saas-platform) |
+| **MashLabs — NFT Protocol** | Solidity, Node.js, IPFS | Engineered gas-optimized backend batching — **35% gas cut** | [Case Study](https://www.ashishksahoo.xyz/case-studies/mashlabs-erc721-nft-protocol) |
+| **Codevigil — Security Tool** | Node.js, TypeScript | Open-source CLI detecting vulnerable repositories, **30+ weekly downloads** | [Web](https://codevigil.xyz) · [GitHub](https://github.com/Ashish-Kumar-007/codevigil) |
+| **FluidPass — Decentralized Payments** | Superfluid, Node.js, Solidity | Eliminated subscription approvals, **30% faster** integration | [Case Study](https://www.ashishksahoo.xyz/case-studies/fluidpass-superfluid-polygon) · [GitHub](https://github.com/Ashish-Kumar-007/FluidPass) |
 
 <br>
 
-## 🎓 Education & Certifications
+## 🧑💼 Where I've worked
+
+*   **Freelance Software Engineer @ [Upwork](https://www.upwork.com/)** *(Aug 2024 – Present)* <br/> Decreased AI response times by ~70% via AWS SNS/Lambda. Deployed stateless RAG APIs with FastAPI.
+*   **Software Development Engineer @ [Aarna Protocol](https://www.aarna.finance/)** *(Nov 2023 – Aug 2024)* <br/> Orchestrated complex, high-volume reward computation workflows using AWS Step Functions and Python.
+*   **Software Developer @ BSBS Tech Pvt. Ltd.** *(Mar 2023 – Nov 2023)* <br/> Decreased core API response times by ~40% by implementing read-through Redis caching and resolving N+1 SQL queries in Python/Django.
+*   **Software Developer Intern @ [NFThing](https://nfthing.com/)** *(May 2022 – Nov 2022)* <br/> Architected automated metadata indexing pipelines aggregating data for 2,000+ digital assets via AWS S3.
+
+**By the numbers:** 2.5+ years shipping production backends · Decreased AI response times by ~70% via AWS SNS/Lambda · 40% reduction in core API latency by resolving N+1 SQL queries · Orchestrated daily settlements for thousands of transactions using AWS Step Functions · Integrated robust Redis caching layers across multiple platforms.
+
+<br>
+
+## 🎓 Education
 
 | | |
 |---|---|
 | **Master of Computer Applications (MCA)** | IMIT Cuttack · 2020–2022 · CGPA 9.18/10 |
-| **Smart Contract Security & Auditing** | Cyfrin Updraft · Dec 2023 |
-| **Web3 Degree** | Alchemy University · Nov 2022 |
+| **Web3 & Smart Contract Security** | Alchemy University & Cyfrin |
 
 <br>
 
 ## 📊 GitHub Activity
 
-<table>
-<tr>
-<td width="50%"><img src="https://github-readme-stats.vercel.app/api?username=Ashish-Kumar-007&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Ashish's GitHub Stats" width="100%"/></td>
-<td width="50%"><img src="https://streak-stats.demolab.com?user=Ashish-Kumar-007&theme=radical&hide_border=true" alt="GitHub Streak" width="100%"/></td>
-</tr>
-</table>
-
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish-Kumar-007&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashish-Kumar-007&theme=radical&hide_border=true&area=true" height="195" alt="GitHub Activity Graph" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ashish-Kumar-007&layout=compact&theme=radical&hide_border=true" height="195" alt="Top Languages" />
+  
+  <br/><br/>
+  
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ashish-Kumar-007&show_icons=true&theme=radical&hide_border=true&count_private=true" height="195" alt="Ashish's GitHub Stats"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://streak-stats.demolab.com?user=Ashish-Kumar-007&theme=radical&hide_border=true" height="195" alt="GitHub Streak"/>
 </div>
 
 <br>
@@ -157,9 +145,9 @@ Production systems with audited, measured outcomes — not demo numbers.
 
 ### 📫 Let's talk
 
-**Open to full-time roles** in blockchain engineering, backend systems, or AI-integrated product teams — India or fully remote. Available immediately, no notice period.
+**Open to full-time roles** in backend engineering, systems architecture, or AI-integrated product teams — India or fully remote. Available immediately.
 
-<a href="https://calendly.com/ashish-kumar-sahoo/connect-with-ashish">Book a 30-min call</a> · <a href="mailto:ashishsahoo2015@gmail.com">Email</a> · <a href="https://linkedin.com/in/ashish-ku-sahoo">LinkedIn</a>
+<a href="https://calendly.com/ashish-kumar-sahoo/connect-with-ashish">Book a 30-min call</a> · <a href="mailto:ashishsahoo2015@gmail.com">Email</a> · <a href="https://linkedin.com/in/ashishksahoo-xyz">LinkedIn</a>
 
 <sub>⭐ from you means I'm doing something right. Thanks for stopping by.</sub>
 
