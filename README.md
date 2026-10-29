@@ -113,14 +113,9 @@ Production-grade systems, AI products, and engineering solutions with measurable
 
 | Project | Stack | Outcome | Links |
 |---|---|---|---|
-| **AI Live Chat Agent** | FastAPI, Python, Redis, AWS SNS, BullMQ | Reduced AI response time by **~70% (8s → 2s)** with async workers and queue-based processing | [GitHub](https://github.com/Ashish-Kumar-007/AI-Live-Chat-Agent) |
-| **Database Job Scheduler** | Python, PostgreSQL, background jobs, task scheduling | Built a scalable scheduler for recurring database jobs and automation workflows | [GitHub](https://github.com/Ashish-Kumar-007/database-job-scheduler) |
-| **URL Shortener** | Python, API design, database persistence, redirect logic | Built a production-ready URL shortener with clean backend flow and redirect handling | [GitHub](https://github.com/Ashish-Kumar-007/url-shortner) |
-| **AI-Powered CSV Importer** | TypeScript, Node.js, AI-assisted file ingestion | Built a smarter import workflow for structured and semi-structured data processing | [GitHub](https://github.com/Ashish-Kumar-007/AI-Powered-CSV-Importer) |
-| **carbon-oracle** | TypeScript, backend orchestration, automation | Data-driven backend workflow for scalable orchestration and automation | [GitHub](https://github.com/Ashish-Kumar-007/carbon-oracle) |
-| **StudioLive — SaaS Platform** | Node.js, Redis, BullMQ, Prisma | Reduced dashboard aggregation latency from **5–8s → 1–2s** | [Case Study](https://www.ashishksahoo.xyz/case-studies/studiolive-saas-platform) |
-| **MashLabs — NFT Protocol** | Solidity, Node.js, IPFS | Engineered gas-optimized batching to reduce costs by **35%** | [Case Study](https://www.ashishksahoo.xyz/case-studies/mashlabs-erc721-nft-platform) |
-| **Codevigil — Security Tool** | Node.js, TypeScript | Open-source CLI detecting vulnerable repositories with **30+ weekly downloads** | [Web](https://codevigil.xyz) · [GitHub](https://github.com/Ashish-Kumar-007/codevigil) |
+| **AI Agent — RAG Chat System** | FastAPI, Python, Redis, AWS SNS, BullMQ | Reduced AI response time by **~70% (8s → 2s)** with async workers and queue-based processing | [GitHub](https://github.com/Ashish-Kumar-007/AI-Live-Chat-Agent) |
+| **Database Job Scheduler** | Python, PostgreSQL, background jobs, automation | Built a scalable scheduler for recurring database jobs and task orchestration | [GitHub](https://github.com/Ashish-Kumar-007/database-job-scheduler) |
+| **URL Shortener** | Python, FastAPI, PostgreSQL, Redis | Built a production-ready URL shortener with redirect handling and backend persistence | [GitHub](https://github.com/Ashish-Kumar-007/url-shortner) |
 
 <br>
 
