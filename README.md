@@ -76,9 +76,8 @@ RAG Pipelines, Vector DBs, Prompt Engineering, Semantic Search, Async LLM Infere
 </td>
 <td valign="top" width="25%">
 
-**Web3 & Frontend**
+**Frontend**
 <br>
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
