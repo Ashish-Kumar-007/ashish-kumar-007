@@ -2,14 +2,6 @@
 
 # Ashish Kumar Sahoo | Backend & AI Engineer
 
-<meta name="description" content="Ashish Kumar Sahoo is an Independent Software Engineer specializing in scalable backend systems, AI-powered products, and cloud-native APIs built with Python, Node.js, FastAPI, and AWS." />
-<meta name="keywords" content="Ashish Kumar Sahoo, Backend Engineer, AI Engineer, Python Developer, Node.js Developer, FastAPI, Django, AWS, RAG, LLM Integration, scalable backend systems, API architecture" />
-<meta name="author" content="Ashish Kumar Sahoo" />
-<meta property="og:title" content="Ashish Kumar Sahoo | Backend & AI Engineer" />
-<meta property="og:description" content="Independent Software Engineer building scalable APIs, AI-integrated systems, and production-ready backend infrastructure for modern businesses." />
-<meta property="og:type" content="website" />
-<meta name="twitter:card" content="summary_large_image" />
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2454A6&center=true&vCenter=true&width=760&lines=Backend+Engineer+%7C+AI+Systems+Builder;Python+%2B+Node.js+APIs+for+scale;AWS+Cloud+%7C+RAG+%7C+LLM+Integrations;Scalable+products+built+for+real+growth" alt="Ashish Kumar Sahoo - Backend & AI Engineer" />
 
 <p align="center">
@@ -28,6 +20,8 @@
 
 I am an Independent Software Engineer focused on building scalable backend systems, resilient APIs, and AI-powered product experiences that solve real business problems.
 
+I design and ship scalable backend infrastructure and AI-integrated systems — robust APIs, distributed data pipelines, and the cloud architecture that runs them. I specialize in Python and Node.js ecosystems, but my work also spans data systems, distributed cloud workflows, and LLM-powered application logic.
+
 My work spans:
 
 - Backend engineering with Python, Node.js, TypeScript, FastAPI, and Django
@@ -45,6 +39,22 @@ My work spans:
 **Currently:** Independent Software Engineer building scalable AI products, backend infrastructure, and automation systems for clients and startups.
 
 **Track record:** At Aarna Protocol, I designed and orchestrated high-volume reward computation workflows using AWS Step Functions, ensuring reliable daily settlements and resilient webhook-driven operations.
+
+<br>
+
+## What I do
+
+I build backend systems that are fast, maintainable, and production-ready. My focus is on solving real engineering problems at scale:
+
+- Design and implementation of **high-performance APIs** and microservices
+- Cloud-native application architecture on **AWS**
+- Background job orchestration, queue processing, and distributed task execution
+- Building **AI-powered products** including RAG pipelines and LLM integrations
+- Database optimization and performance tuning using **Redis** and **PostgreSQL**
+
+System Architecture → API Design (FastAPI/Django/Node) → DB Optimization (Redis/PostgreSQL) → AWS Cloud Deployment
+
+**Right now:** Engineering freelance solutions on Upwork, building stateless RAG pipelines, and optimizing LLM inference with AWS background workers.
 
 <br>
 
@@ -133,7 +143,7 @@ Production-grade systems, AI products, and engineering solutions with measurable
 - **Software Developer Intern @ [NFThing](https://nfthing.com/)** *(May 2022 – Nov 2022)*  
   Built automated metadata indexing pipelines processing data for 2,000+ digital assets across AWS infrastructure.
 
-**Impact summary:** 2.5+ years shipping production-grade backend systems • ~70% AI response time reduction using AWS queues and worker orchestration • ~40% API performance improvement through optimization strategies.
+**By the numbers:** 2.5+ years shipping production backends · Decreased AI response times by ~70% via AWS SNS/Lambda · 40% reduction in core API latency by resolving N+1 SQL queries · Orchestrated reliable daily settlements and webhook-driven workflows.
 
 <br>
 
@@ -145,7 +155,7 @@ Production-grade systems, AI products, and engineering solutions with measurable
 
 <br>
 
-## 📊 GitHub Analytics
+## 📊 GitHub Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashish-Kumar-007&theme=radical&hide_border=true&area=true" height="195" alt="GitHub Activity Graph" />
@@ -165,10 +175,10 @@ Production-grade systems, AI products, and engineering solutions with measurable
 
 ### 📫 Let's Connect
 
-Open to backend engineering, platform engineering, and AI product roles — India and remote opportunities.
+**Open to full-time roles** in backend engineering, systems architecture, or AI-integrated product teams — India or fully remote. Available immediately.
 
 <a href="https://calendly.com/ashish-kumar-sahoo/connect-with-ashish">Book a 30-minute call</a> · <a href="mailto:ashishsahoo2015@gmail.com">Email</a> · <a href="https://linkedin.com/in/ashishksahoo-xyz">LinkedIn</a>
 
-<sub>⭐ If this profile resonates with your work, feel free to reach out. Thanks for visiting.</sub>
+<sub>⭐ from you means I'm doing something right. Thanks for stopping by.</sub>
 
 </div>
