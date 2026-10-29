@@ -1,10 +1,16 @@
 <div align="center">
 
-# Hey, I'm Ashish 👋
+# Ashish Kumar Sahoo | Backend & AI Engineer
 
-### Backend & AI Engineer — Scalable systems, high-performance APIs, and AI integrations.
+<meta name="description" content="Ashish Kumar Sahoo is an Independent Software Engineer specializing in scalable backend systems, AI-powered products, and cloud-native APIs built with Python, Node.js, FastAPI, and AWS." />
+<meta name="keywords" content="Ashish Kumar Sahoo, Backend Engineer, AI Engineer, Python Developer, Node.js Developer, FastAPI, Django, AWS, RAG, LLM Integration, scalable backend systems, API architecture" />
+<meta name="author" content="Ashish Kumar Sahoo" />
+<meta property="og:title" content="Ashish Kumar Sahoo | Backend & AI Engineer" />
+<meta property="og:description" content="Independent Software Engineer building scalable APIs, AI-integrated systems, and production-ready backend infrastructure for modern businesses." />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary_large_image" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2454A6&center=true&vCenter=true&width=750&lines=Python+%2B+Node.js+backends%2C+optimized+for+scale;AWS+Cloud+%26+Event-Driven+Architecture;RAG+Pipelines+%26+LLM+Integrations;Currently%3A+open+to+full-time+roles" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2454A6&center=true&vCenter=true&width=760&lines=Backend+Engineer+%7C+AI+Systems+Builder;Python+%2B+Node.js+APIs+for+scale;AWS+Cloud+%7C+RAG+%7C+LLM+Integrations;Scalable+products+built+for+real+growth" alt="Ashish Kumar Sahoo - Backend & AI Engineer" />
 
 <p align="center">
   <a href="https://ashishksahoo.xyz"><img src="https://img.shields.io/badge/Portfolio-2454A6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>&nbsp;
@@ -18,27 +24,37 @@
 
 <br>
 
-## What I actually do
+## About Me
 
-I design and ship **scalable backend infrastructure and AI-integrated systems** — robust APIs, distributed data pipelines, and the cloud architecture that runs them. I specialize in the Python and Node.js ecosystems, focusing on database optimization, asynchronous processing, and bridging complex business logic with high-performance execution.
+I am an Independent Software Engineer focused on building scalable backend systems, resilient APIs, and AI-powered product experiences that solve real business problems.
 
-```
-System Architecture → API Design (FastAPI/Django/Node) → DB Optimization (Redis/PostgreSQL) → AWS Cloud Deployment
-```
+My work spans:
 
-**Right now:** Engineering freelance solutions on Upwork, building stateless RAG pipelines, and optimizing LLM inference with AWS background workers.
+- Backend engineering with Python, Node.js, TypeScript, FastAPI, and Django
+- Cloud-native architecture on AWS with serverless and event-driven systems
+- AI integrations including RAG pipelines, LLM workflows, and async inference
+- Performance optimization across Redis, PostgreSQL, APIs, and background workers
 
-**Track record:** At Aarna Protocol, I orchestrated complex, high-volume reward computation workflows using **AWS Step Functions**, ensuring reliable daily settlements and designing real-time webhook synchronization APIs. At BSBS Tech, I decreased core API response times by ~40% by implementing read-through caching and resolving severe N+1 SQL query bottlenecks.
+<p align="center">
+  <img src="https://img.shields.io/badge/System_Architecture-API_Design-2454A6?style=flat-square" alt="System Architecture" />
+  <img src="https://img.shields.io/badge/Python-FastAPI-Django-3776AB?style=flat-square" alt="Python, FastAPI, Django" />
+  <img src="https://img.shields.io/badge/AWS-Serverless-Cloud-232F3E?style=flat-square" alt="AWS Serverless Cloud" />
+  <img src="https://img.shields.io/badge/RAG-LLM-Integration-6A5ACD?style=flat-square" alt="RAG and LLM integrations" />
+</p>
+
+**Currently:** Independent Software Engineer building scalable AI products, backend infrastructure, and automation systems for clients and startups.
+
+**Track record:** At Aarna Protocol, I designed and orchestrated high-volume reward computation workflows using AWS Step Functions, ensuring reliable daily settlements and resilient webhook-driven operations.
 
 <br>
 
-## 🧰 Stack
+## 🧰 Tech Stack
 
 <table>
 <tr>
 <td valign="top" width="25%">
 
-**Backend & APIs**
+<strong>Backend & APIs</strong>
 <br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -47,12 +63,12 @@ System Architecture → API Design (FastAPI/Django/Node) → DB Optimization (Re
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white)
 <br>
-REST APIs, Microservices, Event-Driven Architecture, OAuth 2.0
+REST APIs, microservices, event-driven architecture, OAuth 2.0, API security
 
 </td>
 <td valign="top" width="25%">
 
-**Data & Cloud**
+<strong>Data & Cloud</strong>
 <br>
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
@@ -60,29 +76,30 @@ REST APIs, Microservices, Event-Driven Architecture, OAuth 2.0
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![BullMQ](https://img.shields.io/badge/BullMQ-DC382D?style=flat-square&logoColor=white)
 <br>
-AWS (Lambda, Step Functions, SNS, S3), SQLAlchemy, Prisma, SQL Optimization
+AWS Lambda, Step Functions, SNS, S3, SQLAlchemy, Prisma, SQL optimization
 
 </td>
 <td valign="top" width="25%">
 
-**AI & Data Science**
+<strong>AI & Data</strong>
 <br>
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-Integration-6A5ACD?style=flat-square)
 <br>
-RAG Pipelines, Vector DBs, Prompt Engineering, Semantic Search, Async LLM Inference
+RAG pipelines, vector search, prompt engineering, semantic retrieval, async inference
 
 </td>
 <td valign="top" width="25%">
 
-**Frontend**
+<strong>Frontend</strong>
 <br>
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 <br>
-Smart Contracts, DeFi Analytics, Ethers.js, Full-Stack Integration
+Modern product interfaces, dashboards, full-stack integration, user-facing delivery
 
 </td>
 </tr>
@@ -90,41 +107,50 @@ Smart Contracts, DeFi Analytics, Ethers.js, Full-Stack Integration
 
 <br>
 
-## 🚀 Projects & Case Studies
+## 🚀 Featured Projects
 
-Production systems and open-source tools with measured engineering outcomes.
+Production-grade systems, AI products, and engineering solutions with measurable impact.
 
-| Project | Stack | Result | Links |
+| Project | Stack | Outcome | Links |
 |---|---|---|---|
-| **AI Live Chat Agent — RAG** | FastAPI, Python, Redis, AWS SNS | Decreased AI response time by **~70% (8s → 2s)** via async background workers | [Case Study](https://www.ashishksahoo.xyz/case-studies/ai-live-chat-rag-cerebras) · [GitHub](https://github.com/Ashish-Kumar-007/AI-Live-Chat-Agent) |
-| **StudioLive — SaaS Platform** | Node.js, Redis, BullMQ, Prisma | Dashboard data aggregation latency dropped from **5–8s → 1–2s** | [Case Study](https://www.ashishksahoo.xyz/case-studies/studiolive-nestjs-saas-platform) |
-| **MashLabs — NFT Protocol** | Solidity, Node.js, IPFS | Engineered gas-optimized backend batching — **35% gas cut** | [Case Study](https://www.ashishksahoo.xyz/case-studies/mashlabs-erc721-nft-protocol) |
-| **Codevigil — Security Tool** | Node.js, TypeScript | Open-source CLI detecting vulnerable repositories, **30+ weekly downloads** | [Web](https://codevigil.xyz) · [GitHub](https://github.com/Ashish-Kumar-007/codevigil) |
-| **FluidPass — Decentralized Payments** | Superfluid, Node.js, Solidity | Eliminated subscription approvals, **30% faster** integration | [Case Study](https://www.ashishksahoo.xyz/case-studies/fluidpass-superfluid-polygon) · [GitHub](https://github.com/Ashish-Kumar-007/FluidPass) |
+| **AI Live Chat Agent** | FastAPI, Python, Redis, AWS SNS, BullMQ | Reduced AI response time by **~70% (8s → 2s)** with async workers and queue-based processing | [GitHub](https://github.com/Ashish-Kumar-007/AI-Live-Chat-Agent) |
+| **AI-Powered CSV Importer** | TypeScript, Node.js, AI-assisted file ingestion | Built a smarter import workflow for structured and semi-structured data processing | [GitHub](https://github.com/Ashish-Kumar-007/AI-Powered-CSV-Importer) |
+| **carbon-oracle** | TypeScript, backend orchestration, automation | Data-driven backend workflow for scalable orchestration and automation | [GitHub](https://github.com/Ashish-Kumar-007/carbon-oracle) |
+| **Backend Dev with Projects** | JavaScript, backend systems, architecture practice | Practical backend engineering repo focused on real-world patterns | [GitHub](https://github.com/Ashish-Kumar-007/Backend-dev-with-projects) |
+| **Backend** | JavaScript, API architecture, service patterns | Clean production-oriented backend patterns and service foundations | [GitHub](https://github.com/Ashish-Kumar-007/Backend) |
+| **StudioLive — SaaS Platform** | Node.js, Redis, BullMQ, Prisma | Reduced dashboard aggregation latency from **5–8s → 1–2s** | [Case Study](https://www.ashishksahoo.xyz/case-studies/studiolive-saas-platform) |
+| **MashLabs — NFT Protocol** | Solidity, Node.js, IPFS | Engineered gas-optimized batching to reduce costs by **35%** | [Case Study](https://www.ashishksahoo.xyz/case-studies/mashlabs-erc721-nft-platform) |
+| **Codevigil — Security Tool** | Node.js, TypeScript | Open-source CLI detecting vulnerable repositories with **30+ weekly downloads** | [Web](https://codevigil.xyz) · [GitHub](https://github.com/Ashish-Kumar-007/Codevigil) |
 
 <br>
 
-## 🧑💼 Where I've worked
+## 🧑💼 Experience
 
-*   **Freelance Software Engineer @ [Upwork](https://www.upwork.com/)** *(Aug 2024 – Present)* <br/> Decreased AI response times by ~70% via AWS SNS/Lambda. Deployed stateless RAG APIs with FastAPI.
-*   **Software Development Engineer @ [Aarna Protocol](https://www.aarna.finance/)** *(Nov 2023 – Aug 2024)* <br/> Orchestrated complex, high-volume reward computation workflows using AWS Step Functions and Python.
-*   **Software Developer @ BSBS Tech Pvt. Ltd.** *(Mar 2023 – Nov 2023)* <br/> Decreased core API response times by ~40% by implementing read-through Redis caching and resolving N+1 SQL queries in Python/Django.
-*   **Software Developer Intern @ [NFThing](https://nfthing.com/)** *(May 2022 – Nov 2022)* <br/> Architected automated metadata indexing pipelines aggregating data for 2,000+ digital assets via AWS S3.
+- **Independent Software Engineer** *(Aug 2024 – Present)*  
+  Building scalable backend systems, AI-enabled platforms, and cloud-native products for startups and clients.
 
-**By the numbers:** 2.5+ years shipping production backends · Decreased AI response times by ~70% via AWS SNS/Lambda · 40% reduction in core API latency by resolving N+1 SQL queries · Orchestrated daily settlements for thousands of transactions using AWS Step Functions · Integrated robust Redis caching layers across multiple platforms.
+- **Software Development Engineer @ [Aarna Protocol](https://www.aarna.finance/)** *(Nov 2023 – Aug 2024)*  
+  Designed and orchestrated complex high-volume reward computation workflows using AWS Step Functions and resilient webhook integrations.
+
+- **Software Developer @ BSBS Tech Pvt. Ltd.** *(Mar 2023 – Nov 2023)*  
+  Improved core API performance by ~40% through Redis caching and N+1 query optimization.
+
+- **Software Developer Intern @ [NFThing](https://nfthing.com/)** *(May 2022 – Nov 2022)*  
+  Built automated metadata indexing pipelines processing data for 2,000+ digital assets across AWS infrastructure.
+
+**Impact summary:** 2.5+ years shipping production-grade backend systems • ~70% AI response time reduction using AWS queues and worker orchestration • ~40% API performance improvement through optimization strategies.
 
 <br>
 
 ## 🎓 Education
 
-| | |
+| Qualification | Institution |
 |---|---|
 | **Master of Computer Applications (MCA)** | IMIT Cuttack · 2020–2022 · CGPA 9.18/10 |
-| **Web3 & Smart Contract Security** | Alchemy University & Cyfrin |
 
 <br>
 
-## 📊 GitHub Activity
+## 📊 GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashish-Kumar-007&theme=radical&hide_border=true&area=true" height="195" alt="GitHub Activity Graph" />
@@ -133,7 +159,7 @@ Production systems and open-source tools with measured engineering outcomes.
   
   <br/><br/>
   
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ashish-Kumar-007&show_icons=true&theme=radical&hide_border=true&count_private=true" height="195" alt="Ashish's GitHub Stats"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ashish-Kumar-007&show_icons=true&theme=radical&hide_border=true&count_private=true" height="195" alt="Ashish Kumar Sahoo GitHub Stats" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://streak-stats.demolab.com?user=Ashish-Kumar-007&theme=radical&hide_border=true" height="195" alt="GitHub Streak"/>
 </div>
@@ -142,12 +168,12 @@ Production systems and open-source tools with measured engineering outcomes.
 
 <div align="center">
 
-### 📫 Let's talk
+### 📫 Let's Connect
 
-**Open to full-time roles** in backend engineering, systems architecture, or AI-integrated product teams — India or fully remote. Available immediately.
+Open to backend engineering, platform engineering, and AI product roles — India and remote opportunities.
 
-<a href="https://calendly.com/ashish-kumar-sahoo/connect-with-ashish">Book a 30-min call</a> · <a href="mailto:ashishsahoo2015@gmail.com">Email</a> · <a href="https://linkedin.com/in/ashishksahoo-xyz">LinkedIn</a>
+<a href="https://calendly.com/ashish-kumar-sahoo/connect-with-ashish">Book a 30-minute call</a> · <a href="mailto:ashishsahoo2015@gmail.com">Email</a> · <a href="https://linkedin.com/in/ashishksahoo-xyz">LinkedIn</a>
 
-<sub>⭐ from you means I'm doing something right. Thanks for stopping by.</sub>
+<sub>⭐ If this profile resonates with your work, feel free to reach out. Thanks for visiting.</sub>
 
 </div>
