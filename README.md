@@ -36,10 +36,10 @@ My work spans:
 - Performance optimization across Redis, PostgreSQL, APIs, and background workers
 
 <p align="center">
-  <img src="https://img.shields.io/badge/System_Architecture-API_Design-2454A6?style=flat-square" alt="System Architecture" />
-  <img src="https://img.shields.io/badge/Python-FastAPI-Django-3776AB?style=flat-square" alt="Python, FastAPI, Django" />
-  <img src="https://img.shields.io/badge/AWS-Serverless-Cloud-232F3E?style=flat-square" alt="AWS Serverless Cloud" />
-  <img src="https://img.shields.io/badge/RAG-LLM-Integration-6A5ACD?style=flat-square" alt="RAG and LLM integrations" />
+  <span style="display:inline-block;padding:6px 12px;border-radius:999px;background:#2454A6;color:white;font-weight:600;">⚙️ System Architecture</span>
+  <span style="display:inline-block;padding:6px 12px;border-radius:999px;background:#3776AB;color:white;font-weight:600;">🐍 Python · FastAPI · Django</span>
+  <span style="display:inline-block;padding:6px 12px;border-radius:999px;background:#232F3E;color:white;font-weight:600;">☁️ AWS Cloud</span>
+  <span style="display:inline-block;padding:6px 12px;border-radius:999px;background:#6A5ACD;color:white;font-weight:600;">🤖 RAG · LLM</span>
 </p>
 
 **Currently:** Independent Software Engineer building scalable AI products, backend infrastructure, and automation systems for clients and startups.
